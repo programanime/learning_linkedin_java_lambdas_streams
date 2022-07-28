@@ -7,7 +7,7 @@
 # functional programming
 - they  are call pure function too, which means, for the same input, same output
 
-![](img/functional_programming.png1)  
+![](img/functional_programming.png)  
 
 - function could have functions as input
 
